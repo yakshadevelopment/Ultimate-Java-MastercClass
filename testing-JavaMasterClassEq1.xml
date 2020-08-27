@@ -1,0 +1,28 @@
+<test-cases>
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testCheckSumOfOddEvenDigits</name>
+		<weight>2</weight>
+		<mandatory>true</mandatory>
+		<desc>Testing sum of number is even or odd</desc>
+	</cases>
+
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testSumOfOddDigits</name>
+		<weight>2</weight>
+		<mandatory>true</mandatory>
+		<desc>Testing sum of odd digits</desc>
+	</cases>
+
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testSumOfEvenDigits</name>
+		<weight>2</weight>
+		<mandatory>true</mandatory>
+		<desc>Testing sum of even digits</desc>
+	</cases>
+</test-cases>
