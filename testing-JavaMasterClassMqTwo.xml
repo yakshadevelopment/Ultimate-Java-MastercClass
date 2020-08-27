@@ -1,0 +1,10 @@
+<test-cases>
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testDeleteAndMergeFruitLists</name>
+		<weight>10</weight>
+		<mandatory>true</mandatory>
+		<desc>Test to delete and merge fruit lists using string array and ArrayList</desc>
+	</cases>
+</test-cases>
