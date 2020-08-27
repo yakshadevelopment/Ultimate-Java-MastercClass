@@ -1,0 +1,10 @@
+<test-cases>
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testAddSquareCube</name>
+		<weight>6</weight>
+		<mandatory>true</mandatory>
+		<desc>Testing sum of sqaure and cube of numbers in an array</desc>
+	</cases>
+</test-cases>
